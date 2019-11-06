@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{995A6423-81E5-4962-BBEC-E1B0CDEB202F}|Default">
+  <MonoDevelop.Ide.ItemProperties.PathFindingViewer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PathFindingViewer/PathFindingViewer/MainGame.cs">
+    <Files>
+      <File FileName="PathFindingViewer/PathFindingViewer/MainGame.cs" Line="78" Column="46" />
+      <File FileName="PathFindingViewer/PathFindingViewer/PathFinding.cs" Line="86" Column="3" />
+      <File FileName="PathFindingViewer/PathFindingViewer/Primitive.cs" Line="53" Column="1" />
+      <File FileName="PathFindingViewer/PathFindingViewer/static/AssetManager.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
